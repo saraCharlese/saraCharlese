@@ -27,7 +27,7 @@ I am a web developer looking to expand my portfolio!
 
 ## About Me 🧐
   - Recent Computer Science Graduate from MSU Denver
-  - Computer Technician at Lario Oil & Gas Company
+  - Currently working as a Computer Technician in Denver
 
 ## What I'm currently learning 🤓
   - UX Design 
