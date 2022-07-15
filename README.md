@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi, I'm Sara!
 
 <!--
 **saraCharlese/saraCharlese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a web developer looking to expand my portfolio!
+
+## Fun Facts 🥳
+  - I love playing video games, watching movies, and learning new things in my free time!
+
+## About Me 🧐
+  - Recent Computer Science Graduate from MSU Denver
+  - Computer Technician at Lario Oil & Gas Company
+
+## What I'm currently learning 🤓
+  - UX Design 
+  - HTML/CSS
+
+## Connect 💻
+  - [My Website](saraatonin.tech)
+  
