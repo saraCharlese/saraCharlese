@@ -1,4 +1,6 @@
-![54665-girl-say-hi](https://user-images.githubusercontent.com/48772837/179277317-3a27d3ad-c29c-41be-be68-c0112c59248c.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/48772837/179277317-3a27d3ad-c29c-41be-be68-c0112c59248c.gif" alt="animated" />
+</p>
 
 
 # Hi, I'm Sara!
