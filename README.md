@@ -34,5 +34,5 @@ I am a web developer looking to expand my portfolio!
   - HTML/CSS
 
 ## Connect 💻
-  - [My Website](saraatonin.tech)
+  - [My Website](https://saraatonin.tech/)
   
