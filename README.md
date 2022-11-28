@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a web developer looking to expand my portfolio!
+I am a IT Support Technician looking to expand my expertise!
 
 ## Fun Facts 🥳
   - I love playing video games, watching movies, and learning new things in my free time!
