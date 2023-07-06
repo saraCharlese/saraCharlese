@@ -27,11 +27,12 @@ I am a IT Support Technician looking to expand my expertise!
 
 ## About Me 🧐
   - Recent Computer Science Graduate from MSU Denver
-  - Currently working as a Computer Technician in Denver
+  - Currently working as a Computer Support Specialist
 
 ## What I'm currently learning 🤓
   - UX Design 
   - HTML/CSS
+  - SQL
 
 ## Connect 💻
   - [My Website](https://saraatonin.tech/)
