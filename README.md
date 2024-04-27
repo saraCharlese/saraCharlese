@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a IT Support Technician excited about learning new things!
+I am an IT Support Technician excited about learning new things!
 
 ## Fun Facts 🥳
   - In my free time I enjoy playing video games, and watching movies.
@@ -36,4 +36,4 @@ I am a IT Support Technician excited about learning new things!
 
 ## Connect 💻
   - [My Website](https://saraatonin.tech/)
-  - [LinkedIn](www.linkedin.com/in/sara-white22) 
+  - [LinkedIn](https://linkedin.com/in/sara-white22) 
