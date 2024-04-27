@@ -20,10 +20,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a IT Support Technician looking to expand my expertise!
+I am a IT Support Technician excited about learning new things!
 
 ## Fun Facts 🥳
-  - I love playing video games, watching movies, and learning new things in my free time!
+  - In my free time I enjoy playing video games, and watching movies.
 
 ## About Me 🧐
   - Recent Computer Science Graduate from MSU Denver
