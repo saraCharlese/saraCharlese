@@ -27,7 +27,7 @@ I am a IT Support Technician excited about learning new things!
 
 ## About Me 🧐
   - Recent Computer Science Graduate from MSU Denver
-  - Currently working as a Computer Support Specialist
+  - Currently working as a Technology Support Specialist
 
 ## What I'm currently learning 🤓
   - UX Design 
@@ -36,4 +36,4 @@ I am a IT Support Technician excited about learning new things!
 
 ## Connect 💻
   - [My Website](https://saraatonin.tech/)
-  
+  - [LinkedIn](www.linkedin.com/in/sara-white22) 
