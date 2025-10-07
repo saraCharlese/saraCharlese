@@ -26,13 +26,11 @@ I am an IT Support Technician excited about learning new things!
   - In my free time I enjoy playing video games, and watching movies.
 
 ## About Me 🧐
-  - Recent Computer Science Graduate from MSU Denver
+  - Computer Science Graduate from MSU Denver
   - Currently working as a Technology Support Specialist
 
 ## What I'm currently learning 🤓
-  - UX Design 
-  - HTML/CSS
-  - SQL
+  - Cybersecurity through Google Coursera
 
 ## Connect 💻
   - [My Website](https://saraatonin.tech/)
