@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 I am an IT Support Technician excited about learning new things!
 
 ## Fun Facts 🥳
-  - In my free time I enjoy playing video games, and watching movies.
+  - In my free time I enjoy playing video games, reading Fantasy/Romance books, and watching movies.
 
 ## About Me 🧐
   - Computer Science Graduate from MSU Denver
